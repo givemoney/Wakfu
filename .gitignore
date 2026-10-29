@@ -1,3 +1,10 @@
 # Conserver le dossier extractions mais ignorer son contenu
 /extractions/*
 !/extractions/.gitkeep
+# Etat d'execution local Wakfu Board
+/app/switcheur/
+/app/coordination-fenetres/
+/app/manual-commandes/
+/app/site-wakfu/
+/app/diagnostic-direct/
+/app/disposition-P.json

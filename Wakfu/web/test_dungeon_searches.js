@@ -1,0 +1,18 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const source=fs.readFileSync(require('node:path').join(__dirname,'app.js'),'utf8');
+const code=source.slice(source.indexOf('class DungeonSearchStore'),source.indexOf('function initDungeonSearches'));
+const context={crypto};vm.runInNewContext(code+'; this.Store=DungeonSearchStore;',context);
+const memory=new Map(),storage={getItem:k=>memory.get(k)||null,setItem:(k,v)=>memory.set(k,v)};
+const a=new context.Store(storage),b=new context.Store(storage);
+const criteria={q:'test',min:'80',max:'100',sort:'level_desc',rarities:['2'],categories:['109','111'],partialCategories:['200'],wanted:[{id:2021,name:'Amulette'}],lootMode:'exclude'};
+let id=a.put(null,'  Mon test  ',criteria);
+assert.deepEqual(JSON.parse(JSON.stringify(b.read()[0].filters)),criteria);
+assert.equal(b.read()[0].name,'Mon test');
+let second=b.put(null,'Autre recherche',{});
+a.put(id,'Nouveau nom',{min:'90'});assert.equal(b.read().length,2);assert.equal(b.read()[1].id,second);
+b.remove(id);assert.equal(a.read().length,1);assert.throws(()=>a.put(id,'Ancienne',{}));
+assert.throws(()=>a.put(null,'   ',{}));
+for(let i=0;i<150;i++)a.put(null,'Recherche '+i,{});assert.equal(a.read().length,151);
+const before=storage.getItem(a.key);storage.setItem=()=>{throw Object.assign(new Error('Plein'),{name:'QuotaExceededError'});};
+assert.throws(()=>a.put(second,'Échec',{}));assert.equal(storage.getItem(a.key),before);
+console.log('Persistance, indépendance, mise à jour, suppression, onglets concurrents, absence de plafond et stockage plein : OK');

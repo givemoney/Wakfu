@@ -1,0 +1,1505 @@
+{
+  "format": 1,
+  "version": "1.93.1.62",
+  "build": "6.0_1.93.1.5275.330",
+  "source": "https://cytrus.cdn.ankama.com/wakfu/releases/main/windows/6.0_1.93.1.5275.330.manifest",
+  "archive": "contents/maps/data.jar",
+  "sha1": "aa2246b2e5cc2596681f5327bbd5949060b51027",
+  "links": [
+    {
+      "territory_id": 41301,
+      "world_id": 163,
+      "resource_id": 322
+    },
+    {
+      "territory_id": 44601,
+      "world_id": 223,
+      "resource_id": 395
+    },
+    {
+      "territory_id": 44701,
+      "world_id": 224,
+      "resource_id": 395
+    },
+    {
+      "territory_id": 54501,
+      "world_id": 301,
+      "resource_id": 368
+    },
+    {
+      "territory_id": 56401,
+      "world_id": 323,
+      "resource_id": 162
+    },
+    {
+      "territory_id": 56401,
+      "world_id": 323,
+      "resource_id": 254
+    },
+    {
+      "territory_id": 56401,
+      "world_id": 323,
+      "resource_id": 356
+    },
+    {
+      "territory_id": 56401,
+      "world_id": 323,
+      "resource_id": 366
+    },
+    {
+      "territory_id": 56601,
+      "world_id": 327,
+      "resource_id": 385
+    },
+    {
+      "territory_id": 56601,
+      "world_id": 327,
+      "resource_id": 391
+    },
+    {
+      "territory_id": 56601,
+      "world_id": 327,
+      "resource_id": 396
+    },
+    {
+      "territory_id": 57201,
+      "world_id": 337,
+      "resource_id": 408
+    },
+    {
+      "territory_id": 57201,
+      "world_id": 337,
+      "resource_id": 410
+    },
+    {
+      "territory_id": 57801,
+      "world_id": 343,
+      "resource_id": 409
+    },
+    {
+      "territory_id": 57901,
+      "world_id": 348,
+      "resource_id": 411
+    },
+    {
+      "territory_id": 59701,
+      "world_id": 472,
+      "resource_id": 465
+    },
+    {
+      "territory_id": 60601,
+      "world_id": 504,
+      "resource_id": 393
+    },
+    {
+      "territory_id": 60601,
+      "world_id": 504,
+      "resource_id": 398
+    },
+    {
+      "territory_id": 60701,
+      "world_id": 507,
+      "resource_id": 393
+    },
+    {
+      "territory_id": 60701,
+      "world_id": 507,
+      "resource_id": 398
+    },
+    {
+      "territory_id": 60701,
+      "world_id": 507,
+      "resource_id": 575
+    },
+    {
+      "territory_id": 60801,
+      "world_id": 508,
+      "resource_id": 393
+    },
+    {
+      "territory_id": 60801,
+      "world_id": 508,
+      "resource_id": 398
+    },
+    {
+      "territory_id": 60901,
+      "world_id": 496,
+      "resource_id": 495
+    },
+    {
+      "territory_id": 61501,
+      "world_id": 458,
+      "resource_id": 380
+    },
+    {
+      "territory_id": 61501,
+      "world_id": 458,
+      "resource_id": 397
+    },
+    {
+      "territory_id": 61501,
+      "world_id": 458,
+      "resource_id": 402
+    },
+    {
+      "territory_id": 62201,
+      "world_id": 546,
+      "resource_id": 37
+    },
+    {
+      "territory_id": 63401,
+      "world_id": 711,
+      "resource_id": 260
+    },
+    {
+      "territory_id": 63401,
+      "world_id": 711,
+      "resource_id": 263
+    },
+    {
+      "territory_id": 63401,
+      "world_id": 711,
+      "resource_id": 351
+    },
+    {
+      "territory_id": 63401,
+      "world_id": 711,
+      "resource_id": 363
+    },
+    {
+      "territory_id": 63401,
+      "world_id": 711,
+      "resource_id": 643
+    },
+    {
+      "territory_id": 64601,
+      "world_id": 792,
+      "resource_id": 552
+    },
+    {
+      "territory_id": 64601,
+      "world_id": 792,
+      "resource_id": 554
+    },
+    {
+      "territory_id": 64601,
+      "world_id": 792,
+      "resource_id": 556
+    },
+    {
+      "territory_id": 64601,
+      "world_id": 792,
+      "resource_id": 558
+    },
+    {
+      "territory_id": 64601,
+      "world_id": 792,
+      "resource_id": 560
+    },
+    {
+      "territory_id": 64701,
+      "world_id": 796,
+      "resource_id": 553
+    },
+    {
+      "territory_id": 64701,
+      "world_id": 796,
+      "resource_id": 555
+    },
+    {
+      "territory_id": 64701,
+      "world_id": 796,
+      "resource_id": 557
+    },
+    {
+      "territory_id": 64701,
+      "world_id": 796,
+      "resource_id": 559
+    },
+    {
+      "territory_id": 64701,
+      "world_id": 796,
+      "resource_id": 562
+    },
+    {
+      "territory_id": 65301,
+      "world_id": 843,
+      "resource_id": 700
+    },
+    {
+      "territory_id": 65301,
+      "world_id": 843,
+      "resource_id": 701
+    },
+    {
+      "territory_id": 65301,
+      "world_id": 843,
+      "resource_id": 702
+    },
+    {
+      "territory_id": 65301,
+      "world_id": 843,
+      "resource_id": 705
+    },
+    {
+      "territory_id": 65401,
+      "world_id": 853,
+      "resource_id": 703
+    },
+    {
+      "territory_id": 65401,
+      "world_id": 853,
+      "resource_id": 706
+    },
+    {
+      "territory_id": 65401,
+      "world_id": 853,
+      "resource_id": 709
+    },
+    {
+      "territory_id": 65401,
+      "world_id": 853,
+      "resource_id": 710
+    },
+    {
+      "territory_id": 66701,
+      "world_id": 527,
+      "resource_id": 139
+    },
+    {
+      "territory_id": 66701,
+      "world_id": 527,
+      "resource_id": 369
+    },
+    {
+      "territory_id": 67001,
+      "world_id": 910,
+      "resource_id": 18
+    },
+    {
+      "territory_id": 69301,
+      "world_id": 922,
+      "resource_id": 704
+    },
+    {
+      "territory_id": 69301,
+      "world_id": 922,
+      "resource_id": 707
+    },
+    {
+      "territory_id": 69301,
+      "world_id": 922,
+      "resource_id": 708
+    },
+    {
+      "territory_id": 69301,
+      "world_id": 922,
+      "resource_id": 711
+    },
+    {
+      "territory_id": 69401,
+      "world_id": 923,
+      "resource_id": 704
+    },
+    {
+      "territory_id": 69401,
+      "world_id": 923,
+      "resource_id": 707
+    },
+    {
+      "territory_id": 69401,
+      "world_id": 923,
+      "resource_id": 708
+    },
+    {
+      "territory_id": 69401,
+      "world_id": 923,
+      "resource_id": 711
+    },
+    {
+      "territory_id": 69501,
+      "world_id": 943,
+      "resource_id": 102
+    },
+    {
+      "territory_id": 69501,
+      "world_id": 943,
+      "resource_id": 162
+    },
+    {
+      "territory_id": 69501,
+      "world_id": 943,
+      "resource_id": 254
+    },
+    {
+      "territory_id": 69601,
+      "world_id": 943,
+      "resource_id": 102
+    },
+    {
+      "territory_id": 69601,
+      "world_id": 943,
+      "resource_id": 366
+    },
+    {
+      "territory_id": 71501,
+      "world_id": 999,
+      "resource_id": 600
+    },
+    {
+      "territory_id": 71501,
+      "world_id": 999,
+      "resource_id": 601
+    },
+    {
+      "territory_id": 71501,
+      "world_id": 999,
+      "resource_id": 604
+    },
+    {
+      "territory_id": 71501,
+      "world_id": 999,
+      "resource_id": 607
+    },
+    {
+      "territory_id": 71501,
+      "world_id": 999,
+      "resource_id": 608
+    },
+    {
+      "territory_id": 73701,
+      "world_id": 1053,
+      "resource_id": 602
+    },
+    {
+      "territory_id": 73701,
+      "world_id": 1053,
+      "resource_id": 606
+    },
+    {
+      "territory_id": 73701,
+      "world_id": 1053,
+      "resource_id": 615
+    },
+    {
+      "territory_id": 74201,
+      "world_id": 1076,
+      "resource_id": 622
+    },
+    {
+      "territory_id": 74201,
+      "world_id": 1076,
+      "resource_id": 623
+    },
+    {
+      "territory_id": 75601,
+      "world_id": 527,
+      "resource_id": 6
+    },
+    {
+      "territory_id": 75601,
+      "world_id": 527,
+      "resource_id": 243
+    },
+    {
+      "territory_id": 75601,
+      "world_id": 527,
+      "resource_id": 359
+    },
+    {
+      "territory_id": 75601,
+      "world_id": 527,
+      "resource_id": 391
+    },
+    {
+      "territory_id": 75601,
+      "world_id": 527,
+      "resource_id": 395
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 15
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 18
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 23
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 60
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 79
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 139
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 242
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 253
+    },
+    {
+      "territory_id": 75701,
+      "world_id": 527,
+      "resource_id": 298
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 15
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 37
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 60
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 139
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 253
+    },
+    {
+      "territory_id": 75801,
+      "world_id": 527,
+      "resource_id": 349
+    },
+    {
+      "territory_id": 75901,
+      "world_id": 527,
+      "resource_id": 252
+    },
+    {
+      "territory_id": 76001,
+      "world_id": 527,
+      "resource_id": 15
+    },
+    {
+      "territory_id": 76001,
+      "world_id": 527,
+      "resource_id": 258
+    },
+    {
+      "territory_id": 76001,
+      "world_id": 527,
+      "resource_id": 347
+    },
+    {
+      "territory_id": 76001,
+      "world_id": 527,
+      "resource_id": 350
+    },
+    {
+      "territory_id": 76101,
+      "world_id": 527,
+      "resource_id": 139
+    },
+    {
+      "territory_id": 76101,
+      "world_id": 527,
+      "resource_id": 150
+    },
+    {
+      "territory_id": 76101,
+      "world_id": 527,
+      "resource_id": 252
+    },
+    {
+      "territory_id": 76201,
+      "world_id": 527,
+      "resource_id": 15
+    },
+    {
+      "territory_id": 76201,
+      "world_id": 527,
+      "resource_id": 139
+    },
+    {
+      "territory_id": 76201,
+      "world_id": 527,
+      "resource_id": 253
+    },
+    {
+      "territory_id": 76201,
+      "world_id": 527,
+      "resource_id": 369
+    },
+    {
+      "territory_id": 78401,
+      "world_id": 1094,
+      "resource_id": 360
+    },
+    {
+      "territory_id": 78601,
+      "world_id": 1118,
+      "resource_id": 151
+    },
+    {
+      "territory_id": 78601,
+      "world_id": 1118,
+      "resource_id": 260
+    },
+    {
+      "territory_id": 78601,
+      "world_id": 1118,
+      "resource_id": 263
+    },
+    {
+      "territory_id": 78701,
+      "world_id": 1119,
+      "resource_id": 391
+    },
+    {
+      "territory_id": 79001,
+      "world_id": 1134,
+      "resource_id": 386
+    },
+    {
+      "territory_id": 79001,
+      "world_id": 1134,
+      "resource_id": 387
+    },
+    {
+      "territory_id": 79001,
+      "world_id": 1134,
+      "resource_id": 403
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 8
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 76
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 179
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 334
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 370
+    },
+    {
+      "territory_id": 79101,
+      "world_id": 1134,
+      "resource_id": 576
+    },
+    {
+      "territory_id": 79201,
+      "world_id": 1134,
+      "resource_id": 152
+    },
+    {
+      "territory_id": 79201,
+      "world_id": 1134,
+      "resource_id": 263
+    },
+    {
+      "territory_id": 79201,
+      "world_id": 1134,
+      "resource_id": 296
+    },
+    {
+      "territory_id": 79401,
+      "world_id": 1120,
+      "resource_id": 388
+    },
+    {
+      "territory_id": 79401,
+      "world_id": 1120,
+      "resource_id": 395
+    },
+    {
+      "territory_id": 79401,
+      "world_id": 1120,
+      "resource_id": 400
+    },
+    {
+      "territory_id": 79401,
+      "world_id": 1120,
+      "resource_id": 406
+    },
+    {
+      "territory_id": 79801,
+      "world_id": 1122,
+      "resource_id": 589
+    },
+    {
+      "territory_id": 79801,
+      "world_id": 1122,
+      "resource_id": 646
+    },
+    {
+      "territory_id": 79801,
+      "world_id": 1122,
+      "resource_id": 649
+    },
+    {
+      "territory_id": 79801,
+      "world_id": 1122,
+      "resource_id": 650
+    },
+    {
+      "territory_id": 79801,
+      "world_id": 1122,
+      "resource_id": 653
+    },
+    {
+      "territory_id": 80001,
+      "world_id": 1122,
+      "resource_id": 644
+    },
+    {
+      "territory_id": 80001,
+      "world_id": 1122,
+      "resource_id": 647
+    },
+    {
+      "territory_id": 80001,
+      "world_id": 1122,
+      "resource_id": 648
+    },
+    {
+      "territory_id": 80001,
+      "world_id": 1122,
+      "resource_id": 650
+    },
+    {
+      "territory_id": 80001,
+      "world_id": 1122,
+      "resource_id": 652
+    },
+    {
+      "territory_id": 80101,
+      "world_id": 1123,
+      "resource_id": 645
+    },
+    {
+      "territory_id": 80101,
+      "world_id": 1123,
+      "resource_id": 651
+    },
+    {
+      "territory_id": 80601,
+      "world_id": 1120,
+      "resource_id": 384
+    },
+    {
+      "territory_id": 80601,
+      "world_id": 1120,
+      "resource_id": 395
+    },
+    {
+      "territory_id": 80601,
+      "world_id": 1120,
+      "resource_id": 400
+    },
+    {
+      "territory_id": 80601,
+      "world_id": 1120,
+      "resource_id": 406
+    },
+    {
+      "territory_id": 80801,
+      "world_id": 1135,
+      "resource_id": 6
+    },
+    {
+      "territory_id": 80801,
+      "world_id": 1135,
+      "resource_id": 381
+    },
+    {
+      "territory_id": 80801,
+      "world_id": 1135,
+      "resource_id": 387
+    },
+    {
+      "territory_id": 80801,
+      "world_id": 1135,
+      "resource_id": 397
+    },
+    {
+      "territory_id": 80801,
+      "world_id": 1135,
+      "resource_id": 406
+    },
+    {
+      "territory_id": 80901,
+      "world_id": 1135,
+      "resource_id": 315
+    },
+    {
+      "territory_id": 80901,
+      "world_id": 1135,
+      "resource_id": 330
+    },
+    {
+      "territory_id": 80901,
+      "world_id": 1135,
+      "resource_id": 352
+    },
+    {
+      "territory_id": 80901,
+      "world_id": 1135,
+      "resource_id": 353
+    },
+    {
+      "territory_id": 80901,
+      "world_id": 1135,
+      "resource_id": 354
+    },
+    {
+      "territory_id": 81001,
+      "world_id": 1124,
+      "resource_id": 647
+    },
+    {
+      "territory_id": 81001,
+      "world_id": 1124,
+      "resource_id": 651
+    },
+    {
+      "territory_id": 81001,
+      "world_id": 1124,
+      "resource_id": 653
+    },
+    {
+      "territory_id": 81101,
+      "world_id": 1124,
+      "resource_id": 649
+    },
+    {
+      "territory_id": 81101,
+      "world_id": 1124,
+      "resource_id": 650
+    },
+    {
+      "territory_id": 81101,
+      "world_id": 1124,
+      "resource_id": 652
+    },
+    {
+      "territory_id": 81901,
+      "world_id": 1137,
+      "resource_id": 385
+    },
+    {
+      "territory_id": 82001,
+      "world_id": 1137,
+      "resource_id": 174
+    },
+    {
+      "territory_id": 82001,
+      "world_id": 1137,
+      "resource_id": 255
+    },
+    {
+      "territory_id": 82001,
+      "world_id": 1137,
+      "resource_id": 335
+    },
+    {
+      "territory_id": 82001,
+      "world_id": 1137,
+      "resource_id": 379
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 600
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 601
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 602
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 603
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 605
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 606
+    },
+    {
+      "territory_id": 82201,
+      "world_id": 999,
+      "resource_id": 615
+    },
+    {
+      "territory_id": 83801,
+      "world_id": 1207,
+      "resource_id": 361
+    },
+    {
+      "territory_id": 83901,
+      "world_id": 1209,
+      "resource_id": 572
+    },
+    {
+      "territory_id": 83901,
+      "world_id": 1209,
+      "resource_id": 614
+    },
+    {
+      "territory_id": 84001,
+      "world_id": 1210,
+      "resource_id": 362
+    },
+    {
+      "territory_id": 84101,
+      "world_id": 1208,
+      "resource_id": 392
+    },
+    {
+      "territory_id": 84101,
+      "world_id": 1208,
+      "resource_id": 593
+    },
+    {
+      "territory_id": 84301,
+      "world_id": 1136,
+      "resource_id": 401
+    },
+    {
+      "territory_id": 84301,
+      "world_id": 1136,
+      "resource_id": 407
+    },
+    {
+      "territory_id": 84301,
+      "world_id": 1136,
+      "resource_id": 570
+    },
+    {
+      "territory_id": 84301,
+      "world_id": 1136,
+      "resource_id": 578
+    },
+    {
+      "territory_id": 84301,
+      "world_id": 1136,
+      "resource_id": 612
+    },
+    {
+      "territory_id": 84401,
+      "world_id": 1136,
+      "resource_id": 102
+    },
+    {
+      "territory_id": 84401,
+      "world_id": 1136,
+      "resource_id": 162
+    },
+    {
+      "territory_id": 84401,
+      "world_id": 1136,
+      "resource_id": 316
+    },
+    {
+      "territory_id": 84401,
+      "world_id": 1136,
+      "resource_id": 356
+    },
+    {
+      "territory_id": 84401,
+      "world_id": 1136,
+      "resource_id": 357
+    },
+    {
+      "territory_id": 84501,
+      "world_id": 1136,
+      "resource_id": 357
+    },
+    {
+      "territory_id": 85901,
+      "world_id": 1137,
+      "resource_id": 569
+    },
+    {
+      "territory_id": 85901,
+      "world_id": 1137,
+      "resource_id": 579
+    },
+    {
+      "territory_id": 85901,
+      "world_id": 1137,
+      "resource_id": 590
+    },
+    {
+      "territory_id": 85901,
+      "world_id": 1137,
+      "resource_id": 613
+    },
+    {
+      "territory_id": 86601,
+      "world_id": 1207,
+      "resource_id": 577
+    },
+    {
+      "territory_id": 86601,
+      "world_id": 1207,
+      "resource_id": 592
+    },
+    {
+      "territory_id": 86701,
+      "world_id": 1209,
+      "resource_id": 390
+    },
+    {
+      "territory_id": 86801,
+      "world_id": 1208,
+      "resource_id": 571
+    },
+    {
+      "territory_id": 86801,
+      "world_id": 1208,
+      "resource_id": 593
+    },
+    {
+      "territory_id": 86901,
+      "world_id": 1210,
+      "resource_id": 599
+    },
+    {
+      "territory_id": 88501,
+      "world_id": 1252,
+      "resource_id": 151
+    },
+    {
+      "territory_id": 88501,
+      "world_id": 1252,
+      "resource_id": 605
+    },
+    {
+      "territory_id": 88501,
+      "world_id": 1252,
+      "resource_id": 652
+    },
+    {
+      "territory_id": 88601,
+      "world_id": 1252,
+      "resource_id": 379
+    },
+    {
+      "territory_id": 88701,
+      "world_id": 1252,
+      "resource_id": 648
+    },
+    {
+      "territory_id": 88701,
+      "world_id": 1252,
+      "resource_id": 653
+    },
+    {
+      "territory_id": 88901,
+      "world_id": 1259,
+      "resource_id": 363
+    },
+    {
+      "territory_id": 88901,
+      "world_id": 1259,
+      "resource_id": 365
+    },
+    {
+      "territory_id": 89101,
+      "world_id": 1252,
+      "resource_id": 386
+    },
+    {
+      "territory_id": 89301,
+      "world_id": 1264,
+      "resource_id": 259
+    },
+    {
+      "territory_id": 89301,
+      "world_id": 1264,
+      "resource_id": 356
+    },
+    {
+      "territory_id": 89301,
+      "world_id": 1264,
+      "resource_id": 570
+    },
+    {
+      "territory_id": 89301,
+      "world_id": 1264,
+      "resource_id": 649
+    },
+    {
+      "territory_id": 89401,
+      "world_id": 1264,
+      "resource_id": 593
+    },
+    {
+      "territory_id": 89401,
+      "world_id": 1264,
+      "resource_id": 646
+    },
+    {
+      "territory_id": 89401,
+      "world_id": 1264,
+      "resource_id": 647
+    },
+    {
+      "territory_id": 89501,
+      "world_id": 1264,
+      "resource_id": 296
+    },
+    {
+      "territory_id": 89501,
+      "world_id": 1264,
+      "resource_id": 315
+    },
+    {
+      "territory_id": 89501,
+      "world_id": 1264,
+      "resource_id": 317
+    },
+    {
+      "territory_id": 89701,
+      "world_id": 1264,
+      "resource_id": 357
+    },
+    {
+      "territory_id": 89701,
+      "world_id": 1264,
+      "resource_id": 363
+    },
+    {
+      "territory_id": 89701,
+      "world_id": 1264,
+      "resource_id": 599
+    },
+    {
+      "territory_id": 89701,
+      "world_id": 1264,
+      "resource_id": 603
+    },
+    {
+      "territory_id": 89901,
+      "world_id": 1276,
+      "resource_id": 761
+    },
+    {
+      "territory_id": 89901,
+      "world_id": 1276,
+      "resource_id": 765
+    },
+    {
+      "territory_id": 90001,
+      "world_id": 1276,
+      "resource_id": 763
+    },
+    {
+      "territory_id": 90001,
+      "world_id": 1276,
+      "resource_id": 766
+    },
+    {
+      "territory_id": 90001,
+      "world_id": 1276,
+      "resource_id": 767
+    },
+    {
+      "territory_id": 90101,
+      "world_id": 1276,
+      "resource_id": 764
+    },
+    {
+      "territory_id": 90101,
+      "world_id": 1276,
+      "resource_id": 768
+    },
+    {
+      "territory_id": 90201,
+      "world_id": 1276,
+      "resource_id": 762
+    },
+    {
+      "territory_id": 90201,
+      "world_id": 1276,
+      "resource_id": 769
+    },
+    {
+      "territory_id": 90201,
+      "world_id": 1276,
+      "resource_id": 770
+    },
+    {
+      "territory_id": 90601,
+      "world_id": 1295,
+      "resource_id": 296
+    },
+    {
+      "territory_id": 90601,
+      "world_id": 1295,
+      "resource_id": 382
+    },
+    {
+      "territory_id": 90601,
+      "world_id": 1295,
+      "resource_id": 386
+    },
+    {
+      "territory_id": 90601,
+      "world_id": 1295,
+      "resource_id": 387
+    },
+    {
+      "territory_id": 90601,
+      "world_id": 1295,
+      "resource_id": 644
+    },
+    {
+      "territory_id": 90701,
+      "world_id": 1295,
+      "resource_id": 400
+    },
+    {
+      "territory_id": 90701,
+      "world_id": 1295,
+      "resource_id": 763
+    },
+    {
+      "territory_id": 90701,
+      "world_id": 1295,
+      "resource_id": 765
+    },
+    {
+      "territory_id": 90701,
+      "world_id": 1295,
+      "resource_id": 769
+    },
+    {
+      "territory_id": 90801,
+      "world_id": 1297,
+      "resource_id": 571
+    },
+    {
+      "territory_id": 90801,
+      "world_id": 1297,
+      "resource_id": 766
+    },
+    {
+      "territory_id": 90801,
+      "world_id": 1297,
+      "resource_id": 767
+    },
+    {
+      "territory_id": 90801,
+      "world_id": 1297,
+      "resource_id": 770
+    },
+    {
+      "territory_id": 90901,
+      "world_id": 1298,
+      "resource_id": 405
+    },
+    {
+      "territory_id": 90901,
+      "world_id": 1298,
+      "resource_id": 572
+    },
+    {
+      "territory_id": 90901,
+      "world_id": 1298,
+      "resource_id": 648
+    },
+    {
+      "territory_id": 90901,
+      "world_id": 1298,
+      "resource_id": 768
+    },
+    {
+      "territory_id": 91201,
+      "world_id": 1305,
+      "resource_id": 781
+    },
+    {
+      "territory_id": 91201,
+      "world_id": 1305,
+      "resource_id": 785
+    },
+    {
+      "territory_id": 91301,
+      "world_id": 1309,
+      "resource_id": 787
+    },
+    {
+      "territory_id": 91401,
+      "world_id": 1326,
+      "resource_id": 783
+    },
+    {
+      "territory_id": 91401,
+      "world_id": 1326,
+      "resource_id": 789
+    },
+    {
+      "territory_id": 91801,
+      "world_id": 1333,
+      "resource_id": 782
+    },
+    {
+      "territory_id": 91801,
+      "world_id": 1333,
+      "resource_id": 784
+    },
+    {
+      "territory_id": 92001,
+      "world_id": 1338,
+      "resource_id": 786
+    },
+    {
+      "territory_id": 92001,
+      "world_id": 1338,
+      "resource_id": 788
+    },
+    {
+      "territory_id": 92001,
+      "world_id": 1338,
+      "resource_id": 790
+    },
+    {
+      "territory_id": 92201,
+      "world_id": 1358,
+      "resource_id": 259
+    },
+    {
+      "territory_id": 92201,
+      "world_id": 1358,
+      "resource_id": 330
+    },
+    {
+      "territory_id": 92201,
+      "world_id": 1358,
+      "resource_id": 354
+    },
+    {
+      "territory_id": 92301,
+      "world_id": 1359,
+      "resource_id": 370
+    },
+    {
+      "territory_id": 92301,
+      "world_id": 1359,
+      "resource_id": 645
+    },
+    {
+      "territory_id": 92601,
+      "world_id": 1365,
+      "resource_id": 559
+    },
+    {
+      "territory_id": 92601,
+      "world_id": 1365,
+      "resource_id": 788
+    },
+    {
+      "territory_id": 92901,
+      "world_id": 1368,
+      "resource_id": 762
+    },
+    {
+      "territory_id": 92901,
+      "world_id": 1368,
+      "resource_id": 787
+    },
+    {
+      "territory_id": 93001,
+      "world_id": 1364,
+      "resource_id": 357
+    },
+    {
+      "territory_id": 93001,
+      "world_id": 1364,
+      "resource_id": 403
+    },
+    {
+      "territory_id": 93201,
+      "world_id": 1384,
+      "resource_id": 379
+    },
+    {
+      "territory_id": 93301,
+      "world_id": 1384,
+      "resource_id": 379
+    },
+    {
+      "territory_id": 93301,
+      "world_id": 1384,
+      "resource_id": 401
+    },
+    {
+      "territory_id": 93301,
+      "world_id": 1384,
+      "resource_id": 562
+    },
+    {
+      "territory_id": 93301,
+      "world_id": 1384,
+      "resource_id": 612
+    },
+    {
+      "territory_id": 93501,
+      "world_id": 1384,
+      "resource_id": 401
+    },
+    {
+      "territory_id": 93501,
+      "world_id": 1384,
+      "resource_id": 407
+    },
+    {
+      "territory_id": 93501,
+      "world_id": 1384,
+      "resource_id": 569
+    },
+    {
+      "territory_id": 93601,
+      "world_id": 1385,
+      "resource_id": 825
+    },
+    {
+      "territory_id": 93701,
+      "world_id": 1390,
+      "resource_id": 523
+    },
+    {
+      "territory_id": 93701,
+      "world_id": 1390,
+      "resource_id": 533
+    },
+    {
+      "territory_id": 93801,
+      "world_id": 1384,
+      "resource_id": 552
+    },
+    {
+      "territory_id": 93801,
+      "world_id": 1384,
+      "resource_id": 556
+    },
+    {
+      "territory_id": 93801,
+      "world_id": 1384,
+      "resource_id": 560
+    },
+    {
+      "territory_id": 93901,
+      "world_id": 1384,
+      "resource_id": 179
+    },
+    {
+      "territory_id": 93901,
+      "world_id": 1384,
+      "resource_id": 401
+    },
+    {
+      "territory_id": 93901,
+      "world_id": 1384,
+      "resource_id": 532
+    },
+    {
+      "territory_id": 94201,
+      "world_id": 1401,
+      "resource_id": 836
+    },
+    {
+      "territory_id": 94201,
+      "world_id": 1401,
+      "resource_id": 843
+    },
+    {
+      "territory_id": 94301,
+      "world_id": 1401,
+      "resource_id": 839
+    },
+    {
+      "territory_id": 94301,
+      "world_id": 1401,
+      "resource_id": 841
+    },
+    {
+      "territory_id": 94401,
+      "world_id": 1401,
+      "resource_id": 835
+    },
+    {
+      "territory_id": 94401,
+      "world_id": 1401,
+      "resource_id": 842
+    },
+    {
+      "territory_id": 94501,
+      "world_id": 1401,
+      "resource_id": 837
+    },
+    {
+      "territory_id": 94501,
+      "world_id": 1401,
+      "resource_id": 844
+    },
+    {
+      "territory_id": 94601,
+      "world_id": 1401,
+      "resource_id": 838
+    },
+    {
+      "territory_id": 94601,
+      "world_id": 1401,
+      "resource_id": 840
+    }
+  ]
+}

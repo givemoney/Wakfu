@@ -1,0 +1,3903 @@
+{
+  "format": 1,
+  "manifest": {
+    "version": "1.93.1.62",
+    "config_url": "https://wakfu.cdn.ankama.com/gamedata/config.json",
+    "files": {
+      "actions": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/actions.json",
+        "status": 200,
+        "count": 74,
+        "bytes": 22829,
+        "sha256": "7937aee6ec35c891c0c273283baa8db5af987ec2c66a0a8bc6dc07e5c29702df"
+      },
+      "collectibleResources": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/collectibleResources.json",
+        "status": 200,
+        "count": 666,
+        "bytes": 207413,
+        "sha256": "1615ba3ee2bdc71d9f4404d93e5665c890840551e99e0d564c047a2d04440dc7"
+      },
+      "equipmentItemTypes": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/equipmentItemTypes.json",
+        "status": 200,
+        "count": 32,
+        "bytes": 8563,
+        "sha256": "542fcc233510c207593dc18c729c09ebe3a5ceb625464fdbe7ef8d830aab7019"
+      },
+      "harvestLoots": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/harvestLoots.json",
+        "status": 200,
+        "count": 1221,
+        "bytes": 220644,
+        "sha256": "5fc654a3f9d932dc9437d2e9eec16f8ff35cb1690cd3e42f248f2253ee9fee48"
+      },
+      "itemProperties": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/itemProperties.json",
+        "status": 200,
+        "count": 9,
+        "bytes": 1001,
+        "sha256": "620487a0f9f9539ba182092ee89a9d82fe5585d8e04658831db07106f8857728"
+      },
+      "items": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/items.json",
+        "status": 200,
+        "count": 8423,
+        "bytes": 15624294,
+        "sha256": "7cc7625162a0388c1b63771dd1e59391821af7384d75ceb73d22c363dbb08ec2"
+      },
+      "jobsItems": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/jobsItems.json",
+        "status": 200,
+        "count": 8411,
+        "bytes": 6054058,
+        "sha256": "e04b9ae0b8cd4436e9296bf180de57e1aabe05d8182502838ba83ed958aa55de"
+      },
+      "recipeCategories": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/recipeCategories.json",
+        "status": 200,
+        "count": 14,
+        "bytes": 2581,
+        "sha256": "0e92ba23ebce1b1a3be4854edfb8495077d1b032a62b69b0eaea54c9c3175830"
+      },
+      "recipeIngredients": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/recipeIngredients.json",
+        "status": 200,
+        "count": 33992,
+        "bytes": 2260079,
+        "sha256": "f5debccea862bd45dbd0cac47c68484b3dd967a2ba5e82ac82ed208ca194a151"
+      },
+      "recipeResults": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/recipeResults.json",
+        "status": 200,
+        "count": 5428,
+        "bytes": 461295,
+        "sha256": "64e6df75c5c968e7e48e93e4e9bcc298dd5d5d3beba853843387ba9f65461680"
+      },
+      "recipes": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/recipes.json",
+        "status": 200,
+        "count": 5428,
+        "bytes": 503000,
+        "sha256": "6ab3ab1bc66537b69410a631d22b0733db93801ae345f2de0b31dfa4fcbcdfd0"
+      },
+      "resourceTypes": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/resourceTypes.json",
+        "status": 200,
+        "count": 7,
+        "bytes": 938,
+        "sha256": "123b4b3deb2c01fbc60f5b73a46c2a8d8cc9d4dedc598c734c587a2b7cc37b5f"
+      },
+      "resources": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/resources.json",
+        "status": 200,
+        "count": 170,
+        "bytes": 57150,
+        "sha256": "4398a6d2b90606b6c46992f7f63bdc721dbd7a5ffd6d16aa90563c5eda2b5d02"
+      },
+      "states": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/states.json",
+        "status": 200,
+        "count": 295,
+        "bytes": 36342,
+        "sha256": "80457a8f206e7169947d2d8ae10c0781c01d26a24a608a9adf28d968d8563306"
+      },
+      "recipePattern": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/recipePattern.json",
+        "status": 403
+      }
+    },
+    "probes": {
+      "monsters": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/monsters.json",
+        "status": 403
+      },
+      "monsterDrops": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/monsterDrops.json",
+        "status": 403
+      },
+      "drops": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/drops.json",
+        "status": 403
+      },
+      "zones": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/zones.json",
+        "status": 403
+      },
+      "areas": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/areas.json",
+        "status": 403
+      },
+      "jobs": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/jobs.json",
+        "status": 403
+      },
+      "itemSources": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/itemSources.json",
+        "status": 403
+      },
+      "lootTables": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/lootTables.json",
+        "status": 403
+      },
+      "npcs": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/npcs.json",
+        "status": 403
+      },
+      "achievements": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/achievements.json",
+        "status": 403
+      },
+      "quests": {
+        "url": "https://wakfu.cdn.ankama.com/gamedata/1.93.1.62/quests.json",
+        "status": 403
+      }
+    },
+    "client_export": {
+      "build": "6.0_1.93.1.5275.330",
+      "manifest_url": "https://cytrus.cdn.ankama.com/wakfu/releases/main/windows/6.0_1.93.1.5275.330.manifest",
+      "manifest_sha256": "1662b6ae5880b0250a81f0fd8ff6f7d601be0f96f1a4135fa606a3deae0c2a2c",
+      "files": {
+        "lib/wakfu-client.jar": {
+          "sha1": "5c6fee9f361876c6df392f9d34851c6347e06cec",
+          "bytes": 34008634
+        },
+        "contents/bdata/35.jar": {
+          "sha1": "291a3eb33c45c6fa8bbed2a7b1fe26be1d426799",
+          "bytes": 1726986
+        },
+        "contents/bdata/37.jar": {
+          "sha1": "c81b6614eba34b5b70b7cc0e36e49f4244402fa2",
+          "bytes": 5556
+        },
+        "contents/bdata/42.jar": {
+          "sha1": "2692f829de8fba32f3c25b8fd0ae55573dc96d1e",
+          "bytes": 868977
+        },
+        "contents/bdata/47.jar": {
+          "sha1": "931a3eb63bc0a6a111338ac170211f868a04fff5",
+          "bytes": 10056
+        },
+        "contents/bdata/119.jar": {
+          "sha1": "34a225baf7e7ca6b5064942d3de3dce45bef4cf3",
+          "bytes": 8730
+        },
+        "contents/bdata/39.jar": {
+          "sha1": "4c621f72cef8f021ab77e96849e6f8c81491cc5f",
+          "bytes": 315309
+        },
+        "contents/bdata/75.jar": {
+          "sha1": "ba2b3452cf54c7fe7cd8f0d73c37528af23ecc0a",
+          "bytes": 5445
+        },
+        "contents/bdata/54.jar": {
+          "sha1": "a9aab0b19b6bb3712296430282176216f374f8db",
+          "bytes": 5962
+        },
+        "contents/maps/data.jar": {
+          "sha1": "aa2246b2e5cc2596681f5327bbd5949060b51027",
+          "bytes": 568582
+        },
+        "contents/maps/paper/full.jar": {
+          "sha1": "354a8d270536aca707d1bfece406914c0a40ed70",
+          "bytes": 1933120
+        },
+        "contents/i18n/i18n_fr.jar": {
+          "sha1": "0aa905b2ab5a44868c9d37d86ee46548f6d3d092",
+          "bytes": 5811797
+        }
+      },
+      "geography_conflicts": {
+        "rejected_dungeon_entrances": 33,
+        "records": [
+          {
+            "dungeon_id": 109,
+            "point_id": 9990,
+            "world_id": 1053,
+            "x": 108,
+            "y": -19,
+            "z": -20,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 117,
+            "point_id": 10183,
+            "world_id": 1093,
+            "x": -21,
+            "y": -1,
+            "z": 40,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 134,
+            "point_id": 11913,
+            "world_id": 1202,
+            "x": -23,
+            "y": -7,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 133,
+            "point_id": 10662,
+            "world_id": 1202,
+            "x": -23,
+            "y": -7,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 164,
+            "point_id": 11965,
+            "world_id": 1202,
+            "x": -23,
+            "y": -7,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 136,
+            "point_id": 11712,
+            "world_id": 1207,
+            "x": -76,
+            "y": -32,
+            "z": 1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 150,
+            "point_id": 11716,
+            "world_id": 1210,
+            "x": 45,
+            "y": -104,
+            "z": -39,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 149,
+            "point_id": 11718,
+            "world_id": 1211,
+            "x": 8367,
+            "y": 8352,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 57,
+            "point_id": 11720,
+            "world_id": 1222,
+            "x": 1,
+            "y": -54,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 49,
+            "point_id": 11914,
+            "world_id": 1232,
+            "x": 1,
+            "y": -7,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 135,
+            "point_id": 11915,
+            "world_id": 1233,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 160,
+            "point_id": 11943,
+            "world_id": 1285,
+            "x": -13,
+            "y": -22,
+            "z": 8,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 178,
+            "point_id": 12140,
+            "world_id": 1328,
+            "x": -41,
+            "y": -9,
+            "z": 16,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 178,
+            "point_id": 12139,
+            "world_id": 1328,
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 178,
+            "point_id": 12141,
+            "world_id": 1336,
+            "x": 0,
+            "y": 1,
+            "z": -2,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 189,
+            "point_id": 12358,
+            "world_id": 1389,
+            "x": 151,
+            "y": 8,
+            "z": 14,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 194,
+            "point_id": 12473,
+            "world_id": 1393,
+            "x": 670,
+            "y": 656,
+            "z": 8,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 72,
+            "point_id": 12472,
+            "world_id": 1393,
+            "x": 578,
+            "y": 573,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 202,
+            "point_id": 12539,
+            "world_id": 1430,
+            "x": 0,
+            "y": -19,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 73,
+            "point_id": 4635,
+            "world_id": 184,
+            "x": -42,
+            "y": -68,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 149,
+            "point_id": 13035,
+            "world_id": 235,
+            "x": -304,
+            "y": -566,
+            "z": 48,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 224,
+            "point_id": 12775,
+            "world_id": 346,
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 225,
+            "point_id": 12774,
+            "world_id": 346,
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 221,
+            "point_id": 12773,
+            "world_id": 346,
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 222,
+            "point_id": 12772,
+            "world_id": 346,
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 223,
+            "point_id": 12771,
+            "world_id": 346,
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 9,
+            "point_id": 4165,
+            "world_id": 521,
+            "x": -1,
+            "y": -14,
+            "z": -1,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 72,
+            "point_id": 4638,
+            "world_id": 600,
+            "x": 0,
+            "y": -27,
+            "z": 2,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 74,
+            "point_id": 4729,
+            "world_id": 615,
+            "x": -202,
+            "y": -115,
+            "z": 3,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 67,
+            "point_id": 4728,
+            "world_id": 615,
+            "x": -109,
+            "y": -103,
+            "z": 3,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 79,
+            "point_id": 4980,
+            "world_id": 709,
+            "x": -5,
+            "y": 4,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 5,
+            "point_id": 9673,
+            "world_id": 962,
+            "x": -7,
+            "y": -6,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          },
+          {
+            "dungeon_id": 100,
+            "point_id": 9672,
+            "world_id": 962,
+            "x": -10,
+            "y": 3,
+            "z": 0,
+            "criteria": [
+              ""
+            ]
+          }
+        ],
+        "rule": "Entry and associated dungeon world must have the same official root world. Conflicts remain in raw map_points, not in displayed locations."
+      },
+      "datasets": {
+        "geography_worlds": 720,
+        "geography_territories": 274,
+        "item_learning": 20230,
+        "item_types": 199,
+        "client_monsters": 2874,
+        "monster_families": 549,
+        "client_dungeons": 151,
+        "client_protectors": 105,
+        "client_loot_lists": 2204,
+        "client_world_loot_lists": 49,
+        "monster_spells": 5836,
+        "monster_spell_names": 3091,
+        "monster_drops": 16138,
+        "monster_collect_actions": 1054,
+        "loot_list_entries": 14328,
+        "dungeon_monsters": 566,
+        "map_points": 1887,
+        "map_interactive_points": 2597,
+        "dungeon_entrances": 109,
+        "family_ecosystem_references": 97,
+        "world_instances": 721
+      },
+      "name_source": "Official content.{translation_type}.{id} entries in downloaded texts_fr.properties",
+      "schema_source": "Fields and types read from the downloaded current wakfu-client.jar; every record boundary validated",
+      "limits": [
+        "Creature definitions include NPCs, summons, quest variants, test content and obsolete records; not a list of all currently fightable enemies",
+        "Dungeon monster membership is explicit; parent world is an associated world, not always the entry coordinate",
+        "Ecosystem references describe family population requirements, not exact per-species spawn points",
+        "Map descriptions may contain unevaluated access criteria; no guarantee of access",
+        "Anonymous fields, raw drop condition vectors, and world loot definitions are preserved without inferred semantics"
+      ]
+    }
+  },
+  "tables": {
+    "acquisition_sources": {
+      "columns": [
+        [
+          0,
+          "item_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "source_kind",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "source_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "source_dataset",
+          "TEXT",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 23293,
+      "sha256": "9f17dc99b748d62c4579a31e550b64de4ed5be9ee8dce29cd157cff546803954"
+    },
+    "actions": {
+      "columns": [
+        [
+          0,
+          "effect",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 74,
+      "sha256": "d8c02e690e353c7f0dcb31c759653e8ca1704b9c70b17eb86cc52462d67167cd"
+    },
+    "arrays": {
+      "columns": [
+        [
+          0,
+          "entity",
+          "TEXT",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "entity_id",
+          "INTEGER",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "field",
+          "TEXT",
+          0,
+          null,
+          3
+        ],
+        [
+          3,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          4
+        ],
+        [
+          4,
+          "value",
+          "TEXT",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 87548,
+      "sha256": "229c01d24439ffff04e597dcad40cf3d3792b89832c0945dee63e1c5c91b76af"
+    },
+    "client_dungeons": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_10",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_11",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_12",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_5",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "binary_field_9",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          12,
+          "minimum_level",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "world_map_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 151,
+      "sha256": "fe360fd040daa3d8358da50d81515b81ceb1798e7383d47aafedd5852d10e3d1"
+    },
+    "client_loot_lists": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 2204,
+      "sha256": "fd091cf5c56b55bfca4871fdeae6ab361efe579f97f1fafd617b64b779220b53"
+    },
+    "client_monsters": {
+      "columns": [
+        [
+          0,
+          "base_ap",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "base_hp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "base_mp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "base_wp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_10",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_11",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_12",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "binary_field_13",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "binary_field_14",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "binary_field_15",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "binary_field_16",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "binary_field_17",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          14,
+          "binary_field_18",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          15,
+          "binary_field_19",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          16,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          17,
+          "binary_field_20",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          18,
+          "binary_field_21",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          19,
+          "binary_field_22",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          20,
+          "binary_field_23",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          21,
+          "binary_field_24",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          22,
+          "binary_field_25",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          23,
+          "binary_field_26",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          24,
+          "binary_field_27",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          25,
+          "binary_field_28",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          26,
+          "binary_field_29",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          27,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          28,
+          "binary_field_30",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          29,
+          "binary_field_31",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          30,
+          "binary_field_32",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          31,
+          "binary_field_33",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          32,
+          "binary_field_34",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          33,
+          "binary_field_35",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          34,
+          "binary_field_36",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          35,
+          "binary_field_37",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          36,
+          "binary_field_38",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          37,
+          "binary_field_39",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          38,
+          "binary_field_4",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          39,
+          "binary_field_40",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          40,
+          "binary_field_41",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          41,
+          "binary_field_42",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          42,
+          "binary_field_43",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          43,
+          "binary_field_44",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          44,
+          "binary_field_45",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          45,
+          "binary_field_46",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          46,
+          "binary_field_47",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          47,
+          "binary_field_48",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          48,
+          "binary_field_49",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          49,
+          "binary_field_5",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          50,
+          "binary_field_50",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          51,
+          "binary_field_51",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          52,
+          "binary_field_52",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          53,
+          "binary_field_53",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          54,
+          "binary_field_54",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          55,
+          "binary_field_55",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          56,
+          "binary_field_56",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          57,
+          "binary_field_57",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          58,
+          "binary_field_58",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          59,
+          "binary_field_59",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          60,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          61,
+          "binary_field_60",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          62,
+          "binary_field_61",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          63,
+          "binary_field_62",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          64,
+          "binary_field_63",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          65,
+          "binary_field_64",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          66,
+          "binary_field_65",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          67,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          68,
+          "binary_field_70",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          69,
+          "binary_field_71",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          70,
+          "binary_field_72",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          71,
+          "binary_field_73",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          72,
+          "binary_field_74",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          73,
+          "binary_field_79",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          74,
+          "binary_field_8",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          75,
+          "binary_field_80",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          76,
+          "binary_field_81",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          77,
+          "binary_field_83",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          78,
+          "binary_field_84",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          79,
+          "binary_field_89",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          80,
+          "binary_field_9",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          81,
+          "binary_field_90",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          82,
+          "binary_field_91",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          83,
+          "binary_field_92",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          84,
+          "family_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          85,
+          "gfx_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          86,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          87,
+          "level_max",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          88,
+          "level_min",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 2874,
+      "sha256": "e6d22ab29bb9e69b87d815d8e6f971b5c2712e8bff36fe9233cf21fd3a1a3c61"
+    },
+    "client_protectors": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_10",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_11",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_4",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_5",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "binary_field_8",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "binary_field_9",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          13,
+          "monster_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 105,
+      "sha256": "b0baab19d8eb5596e38fc7a584231ee96bcf7f39fdf2fec893359ea37f7cec52"
+    },
+    "client_world_loot_lists": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_4",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_5",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 49,
+      "sha256": "91b7587f9aa3fd0e720dc416b77a65970f22309b333d29763ac2f7e80f1d9dee"
+    },
+    "dungeon_entrances": {
+      "columns": [
+        [
+          0,
+          "dungeon_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "point_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "x",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "y",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "z",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 109,
+      "sha256": "557ee8cd9a883c0982f3b6b2be7bf8695cefe8d4a4d9c756713a7e5589a00f81"
+    },
+    "dungeon_monsters": {
+      "columns": [
+        [
+          0,
+          "dungeon_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "monster_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 566,
+      "sha256": "30570efe84627b71663c69cb860769e7ff85767051cd57b619e2e7368bafc0a6"
+    },
+    "effect_parameters": {
+      "columns": [
+        [
+          0,
+          "effect_id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "value",
+          "REAL",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 169082,
+      "sha256": "f80f5b71a2c75226262fc87de8f7618e51648521605d309b00e26ae2697dd822"
+    },
+    "effects": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "action_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "area_shape",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "payload",
+          "TEXT",
+          1,
+          null,
+          0
+        ]
+      ],
+      "count": 54051,
+      "sha256": "33650735bb85b1694ad7e738a33a7ea060b9342b0cd6ff215c3f28298362b836"
+    },
+    "equipment_types": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "isRecyclable",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "isVisibleInAnimation",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 32,
+      "sha256": "85b9c4905fe86f244db6d85e6de4857b440b57a57e8ba6a400e015d5ddf2d5ec"
+    },
+    "family_ecosystem_references": {
+      "columns": [
+        [
+          0,
+          "family_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "point_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "population_max",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "population_min",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "protector_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 97,
+      "sha256": "58bc9627bf864789c18958c95f2c79a730bf6d17bfb23ee9629dcf59f4b36d7a"
+    },
+    "geography_territories": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "name",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "raw_name",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 274,
+      "sha256": "0b36f57b9044bfebc9ce7d831b2879eef0a69dad40e8e46703b66234db867822"
+    },
+    "geography_worlds": {
+      "columns": [
+        [
+          0,
+          "binary_access_raw",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_extra_raw",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_kind_raw",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_nation_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_parent_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          7,
+          "name",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "nation_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "parent_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "region_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "region_name",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "world_map_visible",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 720,
+      "sha256": "94c53e55d683832e17eab2f2082f366394ecf4e043a0c40b8da12e60a97a55ad"
+    },
+    "harvest_actions": {
+      "columns": [
+        [
+          0,
+          "collectConsumableItemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "collectGfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "collectItemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "collectLootListId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "displayInCraftDialog",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "duration",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          7,
+          "mruOrder",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "resourceId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "resourceIndex",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "resourceNextIndex",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "simultaneousPlayer",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "skillId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "skillLevelRequired",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          14,
+          "visualFeedbackId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          15,
+          "xpFactor",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 666,
+      "sha256": "0e493c796be348f02386d1360041c2d478acc567944f66118e83e80b57095407"
+    },
+    "harvest_loots": {
+      "columns": [
+        [
+          0,
+          "dropRate",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "itemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "itemIsLootList",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "listId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "maxRoll",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "quantity",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "quantityMax",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "quantityMin",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "quantityPerItem",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "requiredProspection",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 1221,
+      "sha256": "a3a757a4fcc4e0004008bc2077cdcd137c2c24eab92ff578c1345b1fd7773dfd"
+    },
+    "item_effects": {
+      "columns": [
+        [
+          0,
+          "item_id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "kind",
+          "TEXT",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          3
+        ],
+        [
+          3,
+          "effect_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 54051,
+      "sha256": "76184be94df606084a0b90955d04eb39696519620624c22fba7c846c1d76e50f"
+    },
+    "item_learning": {
+      "columns": [
+        [
+          0,
+          "action_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "learn_furniture",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 20230,
+      "sha256": "20ec6426ee50325d2d4bf9a57cd95a8605c04739169fba3db24fe72e26da3506"
+    },
+    "item_properties": {
+      "columns": [
+        [
+          0,
+          "description",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "name",
+          "TEXT",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 9,
+      "sha256": "da41dc5588427e075b2507d30562e26f2fc423c9d29d7cd4bde2e81a1502c981"
+    },
+    "item_properties_link": {
+      "columns": [
+        [
+          0,
+          "item_id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "property_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 941,
+      "sha256": "a48efe09b9bfe2a77f095ca1fd72e0c9662726ce2a879c94952a63c953242367"
+    },
+    "item_types": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          7,
+          "parent_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "sort_order",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 199,
+      "sha256": "5f1211338afcb64139e7f99d955f49af1e3c8ae4ead06fdf4bc02618e8aa49d8"
+    },
+    "items": {
+      "columns": [
+        [
+          0,
+          "baseParameters_bindType",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "baseParameters_itemSetId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "baseParameters_itemTypeId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "baseParameters_maximumShardSlotNumber",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "baseParameters_minimumShardSlotNumber",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "baseParameters_rarity",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "graphicParameters_femaleGfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "graphicParameters_gfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          9,
+          "level",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "shardsParameters_color",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "sublimationParameters_isEpic",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "sublimationParameters_isRelic",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "useParameters_useCostAp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          14,
+          "useParameters_useCostMp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          15,
+          "useParameters_useCostWp",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          16,
+          "useParameters_useRangeMax",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          17,
+          "useParameters_useRangeMin",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          18,
+          "useParameters_useTestFreeCell",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          19,
+          "useParameters_useTestLos",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          20,
+          "useParameters_useTestNoBorderCell",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          21,
+          "useParameters_useTestOnlyLine",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          22,
+          "useParameters_useWorldTarget",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 8423,
+      "sha256": "a5c9186b6ec7f98a27fc5c59f65476f9c8fcd492f70b41437b8f16f7a5cbda79"
+    },
+    "job_items": {
+      "columns": [
+        [
+          0,
+          "graphicParameters_femaleGfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "graphicParameters_gfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          3,
+          "itemTypeId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "level",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "rarity",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 8411,
+      "sha256": "9b4cd41c785fefcbfab1c00438ed12c34ebfc53903c8d5fe6592ea9d44605213"
+    },
+    "loot_list_entries": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_2",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_3",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_4",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_5",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_8",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "binary_field_9",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "criterion",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "entry_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "item_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "list_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          14,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          15,
+          "rate_raw",
+          "REAL",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 14328,
+      "sha256": "245b3537c0de4938b1ee43d62dd317b22845678dcc907cc64aed91883ac1a619"
+    },
+    "map_interactive_points": {
+      "columns": [
+        [
+          0,
+          "flag",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "icon_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          3,
+          "payload_hex",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "type",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 2597,
+      "sha256": "f8a156241f703c01c8335f1c9d86719bfe21b57e13146b52445be8ee7292ad4e"
+    },
+    "map_points": {
+      "columns": [
+        [
+          0,
+          "achievement_goal_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "link_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "link_kind",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "linked_world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "subtype",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "type",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "version_major",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "version_minor",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "world_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "x",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "y",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "z",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 1887,
+      "sha256": "fa35d0b7e591bd280167aaf008a20c4a203dac3c32c20eea5e9c3c93c59f08e6"
+    },
+    "monster_collect_actions": {
+      "columns": [
+        [
+          0,
+          "action_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_10",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_4",
+          "TEXT",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_5",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "binary_field_7",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "binary_field_8",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "collect_item_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "collect_loot_list_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          13,
+          "monster_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          14,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          15,
+          "skill_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          16,
+          "skill_level_required",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 1054,
+      "sha256": "5ee72e67e1a577af24023175707c78d9b72107d311e09dcfb0698e568be8cf52"
+    },
+    "monster_drops": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "binary_field_3",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "binary_field_4",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "binary_field_5",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "binary_field_6",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "binary_field_7",
+          "REAL",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "binary_field_9",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "item_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "monster_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          11,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          12,
+          "rate_raw",
+          "REAL",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 16138,
+      "sha256": "79c701ab8c5fd5f0339faa89333b6512a2a05fc9953984883158604f82079264"
+    },
+    "monster_families": {
+      "columns": [
+        [
+          0,
+          "binary_field_0",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "binary_field_1",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "binary_field_2",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          4,
+          "kind",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "parent_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 549,
+      "sha256": "3da5f899a59fdaac3bc56ba2e1344dab7543a3f5a7b7ca53b2ad0abdb35eef6a"
+    },
+    "monster_spell_names": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 3091,
+      "sha256": "54c6a19d68c3743f00d99bb5c1a0fe49645f2ad28894a23da9a9f5089ebeeee1"
+    },
+    "monster_spells": {
+      "columns": [
+        [
+          0,
+          "monster_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "spell_id",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "spell_level",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 5836,
+      "sha256": "107cf23ca7f6af60ac902ba22ed3bb8b488d9dd84f501f1aa8ce207465d5720d"
+    },
+    "recipe_categories": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "isArchive",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "isHidden",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "isInnate",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "isNoCraft",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "xpFactor",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 14,
+      "sha256": "c5b8e3d4354574f0ed0c8940010e7e28f730383d4b01378bb2067beff8f15359"
+    },
+    "recipe_ingredients": {
+      "columns": [
+        [
+          0,
+          "ingredientOrder",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "itemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "quantity",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "recipeId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 33992,
+      "sha256": "a1eabf52a053cec5b098e1e42057930549604f42a46728a16a5d9d045050980a"
+    },
+    "recipe_results": {
+      "columns": [
+        [
+          0,
+          "productOrder",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "productedItemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          2,
+          "productedItemQuantity",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "recipeId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 5428,
+      "sha256": "b09190b7de4c235ad5dacf998b53d9c485fc003be83817553d65492175f51dd0"
+    },
+    "recipes": {
+      "columns": [
+        [
+          0,
+          "categoryId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "isUpgrade",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "level",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "upgradeItemId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "xpRatio",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 5428,
+      "sha256": "4ff8ea8ed950d98cb068693b17260819cad163aae18ae1a5158c682e39346eaf"
+    },
+    "referenced_harvest_skills": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 5,
+      "sha256": "b538e11f2ed598a49f84aff5022e33aeb3ea3e5a6005878f2170835dc578fa6f"
+    },
+    "resource_types": {
+      "columns": [
+        [
+          0,
+          "affectWakfu",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 7,
+      "sha256": "b66058a392268cb68edfe8e5931cc5bc9f17e1d31e22cecd1f17d1819054ccc2"
+    },
+    "resources": {
+      "columns": [
+        [
+          0,
+          "iconGfxId",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          1,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ],
+        [
+          2,
+          "idealRain",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          3,
+          "idealRainRangeMax",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          4,
+          "idealRainRangeMin",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          5,
+          "idealTemperatureRangeMax",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          6,
+          "idealTemperatureRangeMin",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          7,
+          "isBlocking",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          8,
+          "lastEvolutionStep",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          9,
+          "resourceType",
+          "INTEGER",
+          0,
+          null,
+          0
+        ],
+        [
+          10,
+          "usableByHeroes",
+          "INTEGER",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 170,
+      "sha256": "e40075d8fafa077459620bc31c4736a5df15f5e0065f838b813e03689d45fc07"
+    },
+    "source_records": {
+      "columns": [
+        [
+          0,
+          "dataset",
+          "TEXT",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "ordinal",
+          "INTEGER",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "payload",
+          "TEXT",
+          1,
+          null,
+          0
+        ]
+      ],
+      "count": 137949,
+      "sha256": "83285298f2b3622c92d342ffc632223d1af0893357ae7f2ceb890d5b3c1ceb5e"
+    },
+    "states": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 295,
+      "sha256": "55f9630e39b7bc70fef4c1392c374cdb8d191eddefab7a09dd46cf61e2946892"
+    },
+    "translations": {
+      "columns": [
+        [
+          0,
+          "entity",
+          "TEXT",
+          0,
+          null,
+          1
+        ],
+        [
+          1,
+          "entity_id",
+          "INTEGER",
+          0,
+          null,
+          2
+        ],
+        [
+          2,
+          "field",
+          "TEXT",
+          0,
+          null,
+          3
+        ],
+        [
+          3,
+          "language",
+          "TEXT",
+          0,
+          null,
+          4
+        ],
+        [
+          4,
+          "text",
+          "TEXT",
+          0,
+          null,
+          0
+        ]
+      ],
+      "count": 144193,
+      "sha256": "12d9ce8e67bc9bda40522ebe05e7c51fb34ec36a4e86e501a1bc73155b84edcb"
+    },
+    "world_instances": {
+      "columns": [
+        [
+          0,
+          "id",
+          "INTEGER",
+          0,
+          null,
+          1
+        ]
+      ],
+      "count": 721,
+      "sha256": "a824a0f9aa51c57a2b0977878788673d43bd9335034b7e6a64b4921886ffbc32"
+    }
+  }
+}

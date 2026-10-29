@@ -1,0 +1,41 @@
+# Bases générées et données personnelles locales
+*.sqlite
+*.sqlite-*
+*.db
+# Fichiers temporaires et journaux
+__pycache__/
+*.py[cod]
+*.log
+.update.lock
+lan-status.json
+cache/
+.tmp/
+.env
+.env.*
+# Environnements, outils et artefacts générés
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+htmlcov/
+.coverage*
+*.tmp
+*.temp
+*.bak
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+report.json
+
+# Téléchargements temporaires de reconstruction
+.wakfu-build-*/
+.official-files-*/
+
+# Relations de récolte générées pour la base locale
+/harvest-locations.json

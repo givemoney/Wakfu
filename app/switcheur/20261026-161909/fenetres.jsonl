@@ -1,0 +1,78 @@
+{"heure": "2026-10-26T16:19:09", "message": "Position P prête", "principal": 20620, "fenetres": {"29784": {"handle": 460692, "name": "Naheulbeuuk", "placement": {"flags": 2, "showCmd": 3, "min": [-1, -1], "max": [-1, -1], "normal": [-3785, 79, -2484, 1106]}, "rect": [-3840, 8, -1919, 1089], "primary": false}, "30060": {"handle": 330858, "name": "Abouk Imak", "placement": {"flags": 2, "showCmd": 3, "min": [-1, -1], "max": [-1, -1], "normal": [-1590, 139, -289, 1166]}, "rect": [-1920, 8, 1, 1089], "primary": false}, "29032": {"handle": 657194, "name": "Roubouze Yabess", "placement": {"flags": 0, "showCmd": 1, "min": [-1, -1], "max": [-1, -1], "normal": [2536, 16, 3837, 1043]}, "rect": [2536, 16, 3837, 1043], "primary": false}, "20620": {"handle": 3147610, "name": "Hadak Lkelb", "placement": {"flags": 2, "showCmd": 3, "min": [-1, -1], "max": [-1, -1], "normal": [196, 115, 1497, 1142]}, "rect": [0, 0, 1921, 1081], "primary": true}}}
+{"heure": "2026-10-26T16:19:09", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T16:19:09", "message": "Détection audio et journaux actifs"}
+{"heure": "2026-10-26T16:19:35", "message": "Combat détecté : 1568225321"}
+{"heure": "2026-10-26T16:20:20", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.659}
+{"heure": "2026-10-26T16:20:24", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.925}
+{"heure": "2026-10-26T16:20:32", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T16:21:21", "message": "Combat détecté : 1568225342"}
+{"heure": "2026-10-26T16:22:11", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T16:22:26", "message": "Combat détecté : 1568225352"}
+{"heure": "2026-10-26T16:22:32", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.97}
+{"heure": "2026-10-26T16:22:34", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.664}
+{"heure": "2026-10-26T16:22:43", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T16:25:01", "message": "Combat détecté : 1568225372"}
+{"heure": "2026-10-26T16:25:31", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.672}
+{"heure": "2026-10-26T16:26:03", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.705}
+{"heure": "2026-10-26T16:26:57", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.971}
+{"heure": "2026-10-26T16:27:37", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.951}
+{"heure": "2026-10-26T16:28:04", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.951}
+{"heure": "2026-10-26T16:28:49", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.655}
+{"heure": "2026-10-26T16:29:24", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.9}
+{"heure": "2026-10-26T16:30:09", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.687}
+{"heure": "2026-10-26T16:30:24", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.862}
+{"heure": "2026-10-26T16:30:46", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.797}
+{"heure": "2026-10-26T16:31:13", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.853}
+{"heure": "2026-10-26T16:31:57", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:31:59", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:31:59", "message": "Retour à P manuel — automatique repris"}
+{"heure": "2026-10-26T16:32:20", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.825}
+{"heure": "2026-10-26T16:33:00", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.744}
+{"heure": "2026-10-26T16:33:14", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.695}
+{"heure": "2026-10-26T16:33:31", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.862}
+{"heure": "2026-10-26T16:34:02", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.914}
+{"heure": "2026-10-26T16:34:17", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.824}
+{"heure": "2026-10-26T16:34:29", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T16:34:52", "message": "Combat détecté : 1568225474"}
+{"heure": "2026-10-26T16:35:26", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.687}
+{"heure": "2026-10-26T16:36:07", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.655}
+{"heure": "2026-10-26T16:36:35", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.692}
+{"heure": "2026-10-26T16:36:55", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.973}
+{"heure": "2026-10-26T16:37:46", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.891}
+{"heure": "2026-10-26T16:38:30", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.862}
+{"heure": "2026-10-26T16:39:06", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.691}
+{"heure": "2026-10-26T16:39:34", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.682}
+{"heure": "2026-10-26T16:40:10", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.662}
+{"heure": "2026-10-26T16:40:56", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.966}
+{"heure": "2026-10-26T16:41:19", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.966}
+{"heure": "2026-10-26T16:41:52", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.851}
+{"heure": "2026-10-26T16:42:32", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:42:33", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:42:33", "message": "Retour à P manuel — automatique repris"}
+{"heure": "2026-10-26T16:42:58", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.734}
+{"heure": "2026-10-26T16:43:16", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.666}
+{"heure": "2026-10-26T16:44:13", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.858}
+{"heure": "2026-10-26T16:44:39", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 1.0}
+{"heure": "2026-10-26T16:44:53", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.943}
+{"heure": "2026-10-26T16:45:23", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.782}
+{"heure": "2026-10-26T16:46:57", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.84}
+{"heure": "2026-10-26T16:47:07", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.779}
+{"heure": "2026-10-26T16:47:33", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.945}
+{"heure": "2026-10-26T16:48:13", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.849}
+{"heure": "2026-10-26T16:48:58", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:49:00", "message": "Échange manuel — automatique suspendu"}
+{"heure": "2026-10-26T16:49:00", "message": "Retour à P manuel — automatique repris"}
+{"heure": "2026-10-26T16:49:48", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.695}
+{"heure": "2026-10-26T16:50:07", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.862}
+{"heure": "2026-10-26T16:50:24", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.681}
+{"heure": "2026-10-26T16:50:54", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.965}
+{"heure": "2026-10-26T16:51:16", "message": "Tour de Lacouiisine — disposition P", "pid": 20620, "similarite": 0.844}
+{"heure": "2026-10-26T16:51:41", "message": "Tour de Hadak Lkelb — disposition P", "pid": 20620, "similarite": 0.651}
+{"heure": "2026-10-26T16:51:53", "message": "Tour de Nahel Bou — disposition P", "pid": 20620, "similarite": 0.843}
+{"heure": "2026-10-26T16:52:28", "message": "Tour de Naheulbeuuk — place principale", "pid": 29784, "similarite": 0.914}
+{"heure": "2026-10-26T16:53:05", "message": "Tour de Abouk Imak — place principale", "pid": 30060, "similarite": 0.951}
+{"heure": "2026-10-26T16:53:24", "message": "Tour de Roubouze Yabess — place principale", "pid": 29032, "similarite": 0.966}
+{"heure": "2026-10-26T16:53:42", "message": "Hors combat — P restaurée"}
+{"heure": "2026-10-26T17:01:21", "message": "Restauration partielle : Une fenêtre mémorisée est fermée."}
+{"heure": "2026-10-26T17:01:21", "message": "Interrompu : Une instance WAKFU a été fermée. Relance le panneau après avoir rouvert tes fenêtres."}
+{"heure": "2026-10-26T17:01:21", "message": "Détection arrêtée"}

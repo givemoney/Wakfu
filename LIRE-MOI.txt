@@ -1,0 +1,14 @@
+﻿WAKFU BOARD
+
+Wakfu-Commandes.exe : commandes et échanges manuels de fenêtres.
+Wakfu-Fenetres-Combat.exe : échanges automatiques pendant les combats.
+Lancer-4-Wakfu.exe : ouverture des quatre instances via le Launcher officiel.
+Ouvrir-Wakfu-Atlas.exe : démarrage et ouverture du site Atlas.
+
+Le dossier app contient les composants et les données du board.
+Le dossier runtime contient son Python local et ses dépendances.
+Le dossier code permet de maintenir et recompiler les programmes.
+Conserver ces dossiers avec les programmes.
+
+Le site Atlas reste dans E:\IA\Wakfu.
+Les fichiers du jeu et du Launcher Ankama ne sont pas modifiés.

@@ -1,0 +1,12 @@
+{
+  "son": {
+    "avant_ms": 0.1281,
+    "apres_ms": 0.0956,
+    "gain_pourcent": 25.4
+  },
+  "silence": {
+    "avant_ms": 0.1304,
+    "apres_ms": 0.0026,
+    "gain_pourcent": 98.0
+  }
+}

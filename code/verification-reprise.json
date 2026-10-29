@@ -1,0 +1,9 @@
+{
+  "resultat": "OK",
+  "verifications": [
+    "Aucun redimensionnement impose hors combat",
+    "Reprise automatique apres deux retards de taille",
+    "Compte qui joue remis sur le principal",
+    "Flux audio conserve pendant la reprise"
+  ]
+}

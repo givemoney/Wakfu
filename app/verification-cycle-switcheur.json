@@ -1,0 +1,11 @@
+{
+  "resultat": "OK",
+  "verifications": [
+    "Détection active affichée",
+    "Erreur conservée après l’arrêt du flux",
+    "Relance avec le nouvel identifiant et aucun ancien flux actif",
+    "Pause volontaire conservée après relance",
+    "Les quatre boutons restent accessibles dans le panneau",
+    "Fermeture complète des flux et du panneau"
+  ]
+}

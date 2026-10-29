@@ -1,0 +1,3 @@
+{"type": "setup", "utc": "2026-10-15T00:21:04Z", "instances": {"27676": "Naheulbeuuk", "388": "Roubouze Yabess", "34412": "Abouk Imak", "14188": "Hadak Lkelb"}, "dossier": "E:\\Wakfu Board\\app\\diagnostic-direct\\20261015-022104"}
+{"type": "combat", "utc": "2026-10-15T00:21:04Z", "actif": false, "combats": []}
+{"type": "ready", "utc": "2026-10-15T00:21:04Z", "message": "Capture audio initialisée — attente des sons de tour"}

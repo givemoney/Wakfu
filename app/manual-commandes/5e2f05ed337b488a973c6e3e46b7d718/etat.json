@@ -1,0 +1,124 @@
+{
+  "active": false,
+  "principal": 20620,
+  "cible": 29032,
+  "P": {
+    "29784": {
+      "handle": 460692,
+      "name": "Naheulbeuuk",
+      "placement": {
+        "flags": 2,
+        "showCmd": 3,
+        "min": [
+          -1,
+          -1
+        ],
+        "max": [
+          -1,
+          -1
+        ],
+        "normal": [
+          -3785,
+          79,
+          -2484,
+          1106
+        ]
+      },
+      "rect": [
+        -3840,
+        8,
+        -1919,
+        1089
+      ],
+      "primary": false
+    },
+    "30060": {
+      "handle": 330858,
+      "name": "Abouk Imak",
+      "placement": {
+        "flags": 2,
+        "showCmd": 3,
+        "min": [
+          -1,
+          -1
+        ],
+        "max": [
+          -1,
+          -1
+        ],
+        "normal": [
+          -1590,
+          139,
+          -289,
+          1166
+        ]
+      },
+      "rect": [
+        -1920,
+        8,
+        1,
+        1089
+      ],
+      "primary": false
+    },
+    "29032": {
+      "handle": 657194,
+      "name": "Roubouze Yabess",
+      "placement": {
+        "flags": 0,
+        "showCmd": 1,
+        "min": [
+          -1,
+          -1
+        ],
+        "max": [
+          -1,
+          -1
+        ],
+        "normal": [
+          2536,
+          16,
+          3837,
+          1043
+        ]
+      },
+      "rect": [
+        2536,
+        16,
+        3837,
+        1043
+      ],
+      "primary": false
+    },
+    "20620": {
+      "handle": 3147610,
+      "name": "Hadak Lkelb",
+      "placement": {
+        "flags": 2,
+        "showCmd": 3,
+        "min": [
+          -1,
+          -1
+        ],
+        "max": [
+          -1,
+          -1
+        ],
+        "normal": [
+          196,
+          115,
+          1497,
+          1142
+        ]
+      },
+      "rect": [
+        0,
+        0,
+        1921,
+        1081
+      ],
+      "primary": true
+    }
+  },
+  "auto_resume": true
+}

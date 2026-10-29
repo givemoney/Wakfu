@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "E:\Wakfu Board\app\SwitcheurWakfu.py", line 264, in update
+    last_publish=time.monotonic();refresh()
+                                  ^^^^^^^^^
+  File "E:\Wakfu Board\app\SwitcheurWakfu.py", line 86, in refresh
+    control.publish()
+  File "E:\Wakfu Board\app\CoordinationFenetres.py", line 79, in publish
+    write(STATUS,{'pid':os.getpid(),'run':self.run,'owner':self.owner,'enabled':self.d.enabled,'resume':self.resume,'principal':self.d.main,'P':self.d.p,**self.health})
+  File "E:\Wakfu Board\app\CoordinationFenetres.py", line 26, in write
+    try:temporary.replace(path);return
+        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Wakfu Board\runtime\Lib\pathlib.py", line 1376, in replace
+    os.replace(self, target)
+PermissionError: [WinError 5] Accès refusé: 'E:\\Wakfu Board\\app\\coordination-fenetres\\switcher.json.ce3d7422bb5747e19ce22f40278b26cf.tmp' -> 'E:\\Wakfu Board\\app\\coordination-fenetres\\switcher.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Wakfu Board\runtime\Lib\tkinter\__init__.py", line 1968, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "E:\Wakfu Board\runtime\Lib\tkinter\__init__.py", line 862, in callit
+    func(*args)
+  File "E:\Wakfu Board\app\SwitcheurWakfu.py", line 265, in update
+    except Exception as ex:failure(ex)
+                           ^^^^^^^^^^^
+  File "E:\Wakfu Board\app\SwitcheurWakfu.py", line 102, in failure
+    refresh()
+  File "E:\Wakfu Board\app\SwitcheurWakfu.py", line 86, in refresh
+    control.publish()
+  File "E:\Wakfu Board\app\CoordinationFenetres.py", line 79, in publish
+    write(STATUS,{'pid':os.getpid(),'run':self.run,'owner':self.owner,'enabled':self.d.enabled,'resume':self.resume,'principal':self.d.main,'P':self.d.p,**self.health})
+  File "E:\Wakfu Board\app\CoordinationFenetres.py", line 26, in write
+    try:temporary.replace(path);return
+        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Wakfu Board\runtime\Lib\pathlib.py", line 1376, in replace
+    os.replace(self, target)
+PermissionError: [WinError 5] Accès refusé: 'E:\\Wakfu Board\\app\\coordination-fenetres\\switcher.json.a3ce09ccaab145179385e48f0641166b.tmp' -> 'E:\\Wakfu Board\\app\\coordination-fenetres\\switcher.json'

@@ -1,0 +1,3 @@
+# Conserver le dossier extractions mais ignorer son contenu
+/extractions/*
+!/extractions/.gitkeep

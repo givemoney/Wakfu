@@ -1,17 +1,17 @@
-{
-  "TestsCoordination": 11,
-  "RaccourcisMisAJour": [
-    "Z:\\Bureau\\Lancer 4 WAKFU.lnk",
-    "Z:\\Bureau\\Wakfu Atlas.lnk"
-  ],
-  "Destination": "E:\\Wakfu Board",
-  "ReferenceAudioIdentique": true,
-  "VersionCommandes": 15,
-  "PythonLocal": "E:\\Wakfu Board\\runtime\\python.exe",
-  "VerificationsCycle": 6,
-  "SuppressionAncienDossier": "Terminee apres confirmation explicite; ancien dossier absent",
-  "FichiersRestantsSurC": 0,
-  "EspaceLibereApproxGo": 1.18,
-  "VerrouIdentifie": "Repertoire de travail du Launcher Ankama",
-  "AncienDossier": "C:\\Users\\wassi\\.codex\\.chatgpt-projects\\g-p-6ac539a7ae2c819181100a19291c4966\\outputs"
+﻿{
+    "TestsCoordination":  11,
+    "RaccourcisMisAJour":  [
+                               "Z:\\Bureau\\Lancer 4 WAKFU.lnk",
+                               "Z:\\Bureau\\Wakfu Atlas.lnk"
+                           ],
+    "Destination":  ".",
+    "ReferenceAudioIdentique":  true,
+    "VersionCommandes":  15,
+    "PythonLocal":  "runtime\\python.exe",
+    "VerificationsCycle":  6,
+    "SuppressionAncienDossier":  "Terminee apres confirmation explicite; ancien dossier absent",
+    "FichiersRestantsSurC":  0,
+    "EspaceLibereApproxGo":  1.18,
+    "VerrouIdentifie":  "Repertoire de travail du Launcher Ankama",
+    "AncienDossier":  "C:\\Users\\wassi\\.codex\\.chatgpt-projects\\g-p-6ac539a7ae2c819181100a19291c4966\\outputs"
 }

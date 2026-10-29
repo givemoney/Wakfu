@@ -5,10 +5,19 @@ Wakfu-Fenetres-Combat.exe : échanges automatiques pendant les combats.
 Lancer-4-Wakfu.exe : ouverture des quatre instances via le Launcher officiel.
 Ouvrir-Wakfu-Atlas.exe : démarrage et ouverture du site Atlas.
 
-Le dossier app contient les composants et les données du board.
-Le dossier runtime contient son Python local et ses dépendances.
-Le dossier code permet de maintenir et recompiler les programmes.
-Conserver ces dossiers avec les programmes.
+PORTABILITE
+Le dossier Wakfu Board peut être déplacé ou renommé.
+Les chemins internes sont calculés depuis l'emplacement réel du projet ou des exécutables.
 
-Le site Atlas reste dans E:\IA\Wakfu.
-Les fichiers du jeu et du Launcher Ankama ne sont pas modifiés.
+Conserver ensemble :
+- les EXE à la racine ;
+- app ;
+- code ;
+- runtime ;
+- Wakfu.
+
+Le site Atlas est stocké dans le sous-dossier Wakfu.
+Le runtime Python embarqué se trouve dans runtime et est utilisé en priorité.
+
+Les fichiers du jeu WAKFU et du Launcher Ankama sont externes au projet et ne sont pas modifiés.
+Le lanceur de quatre comptes conserve sa configuration actuelle de l'installation Ankama.
